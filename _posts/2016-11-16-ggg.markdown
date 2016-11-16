@@ -1,0 +1,6 @@
+---
+published: true
+title: ggg
+layout: post
+---
+test
