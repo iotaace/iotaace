@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Stuff Full of Stuff"
-title_separator          : "Bizarre | Freelance Artist | Entrepreneurial | Black and White Illustrations"
-name                     : "ACE"
-description              : "Bizarre - Paintings - Unique - Illustrations"
-url                      : "url: stuffofstuff.com"
+title                    : "Site Title"
+title_separator          : "-"
+name                     : "Your Name"
+description              : "An amazing website."
+url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "iotaace"
+repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -29,7 +29,7 @@ comments:
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
 staticman:
-  allowedFields          : ['ACE', 'aceiotasirrah@gmail.com', 'url', 'message']
+  allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "master"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
@@ -244,15 +244,3 @@ defaults:
       comments: # true
       share: true
       related: true
-defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      read_time: true
-      comments: true
-      share: true
-      related: true
-
