@@ -28,7 +28,7 @@ feature_row:
     url: "/docs/portfolio/"
     btn_label: "Portfolio"
 github:
-  - excerpt: '{::nomarkdown}<iframe style="display: inline-block;"  frameborder="0" scrolling="0" width="160px" height="30px"></iframe> <iframe style="display: inline-block;"  frameborder="0" scrolling="0" width="158px" height="30px"></iframe>{:/nomarkdown}'
+  - excerpt: '{::nomarkdown}{:/nomarkdown}'
 intro:
   - excerpt: 'Get notified when I add new stuff &nbsp; [<i class="fa fa-twitter"></i> @mmistakes](https://twitter.com/mmistakes){: .btn .btn--twitter}'
 ---
