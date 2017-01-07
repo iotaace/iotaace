@@ -7,7 +7,7 @@ header:
   cta_label: "<i class='TEST'></i> TEST"
   cta_url: "/docs/new_gallery/"
   caption:
-excerpt: 'test<br /> </small><br /><br /> {::nomarkdown}<iframe style="display: inline-block;" frameborder="0" scrolling="0" width="160px" height="30px"></iframe> <iframe style="display: inline-block;" frameborder="0" scrolling="0" width="158px" height="30px"></iframe>{:/nomarkdown}'
+excerpt: 'test<br /> </small><br /><br /> {::nomarkdown}
 feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
     alt: "Posts"
