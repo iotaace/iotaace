@@ -27,6 +27,8 @@ feature_row:
     excerpt: "Leads to portfolio page containing various works in an easily navigable manner."
     url: "/docs/portfolio/"
     btn_label: "Portfolio"
+github:
+  - excerpt: '{::nomarkdown}{:/nomarkdown}'
 intro:
   - excerpt: 'Get notified when I add new stuff &nbsp;
 ---
