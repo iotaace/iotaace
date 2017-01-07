@@ -28,9 +28,9 @@ feature_row:
     url: "/docs/portfolio/"
     btn_label: "Portfolio"
 github:
-  - excerpt: '{::nomarkdown}{:/nomarkdown}'
+  - 
 intro:
-  - excerpt: 'Get notified when I add new stuff &nbsp; [<i class="fa fa-twitter"></i> @mmistakes](https://twitter.com/mmistakes){: .btn .btn--twitter}'
+  - excerpt: 'Get notified when I add new stuff &nbsp;
 ---
 
 {% include feature_row id="intro" type="center" %}
