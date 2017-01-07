@@ -2,7 +2,7 @@
 layout: splash
 permalink: /
 header:
-  overlay_color: "#660d3f"
+  overlay_color: "#5e616c"
   overlay_image: /assets/images/splash_header.png
   cta_label: "<i class='test'></i> Enter Gallery"
   cta_url: "/docs/new_qallery/"
