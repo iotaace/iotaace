@@ -1,0 +1,66 @@
+  comment_form_md_info       : "Markdown is supported."
+  comment_form_name_label    : "Name"
+  comment_form_email_label   : "Email address"
+  comment_form_website_label : "Website (optional)"
+  comment_btn_submit         : "Submit Comment"
+  comment_btn_submitted      : "Submitted"
+  comment_success_msg        : "Thanks for your comment! It will show on the site once it has been approved."
+  comment_error_msg          : "Sorry, there was an error with your submission. Please make sure all required fields have been completed and try again."
+  loading_label              : "Loading..."
+en-US:
+  <<: *DEFAULT_EN
+en-CA:
+  <<: *DEFAULT_EN
+en-GB:
+  <<: *DEFAULT_EN
+en-AU:
+  <<: *DEFAULT_EN
+
+# Spanish
+# --------------
+es: &DEFAULT_ES
+  page                       : "Página"
+  pagination_previous        : "Anterior"
+  pagination_next            : "Siguiente"
+  breadcrumb_home_label      : "Inicio"
+  breadcrumb_separator       : "/"
+  menu_label                 :
+  toc_label                  : "Contenidos"
+  ext_link_label             : "Enlace"
+  less_than                  : "menos de"
+  minute_read                : "minuto de lectura"
+  share_on_label             : "Compartir"
+  meta_label                 :
+  tags_label                 : "Etiquetas:"
+  categories_label           : "Categorías:"
+  date_label                 : "Actualizado:"
+  comments_label             : "Comentar"
+  comments_title             :
+  more_label                 : "Ver más"
+  related_label              : "Podrías ver también"
+  follow_label               : "Seguir:"
+  feed_label                 : "Feed"
+  powered_by                 : "Powered by"
+  website_label              : "Sitio web"
+  email_label                : "Email"
+  recent_posts               : "Entradas recientes"
+  undefined_wpm              : "Parametro words_per_minute (Palabras por minuto) no definido en _config.yml"
+  comment_form_info          :
+  comment_form_comment_label :
+  comment_form_md_info       :
+  comment_form_name_label    :
+  comment_form_email_label   :
+  comment_form_website_label :
+  comment_btn_submit         :
+  comment_btn_submitted      :
+  comment_success_msg        :
+  comment_error_msg          :
+  loading_label              :
+es-ES:
+  <<: *DEFAULT_ES
+es-CO:
+  <<: *DEFAULT_ES
+
+# French
+# -----------------
+fr: &DEFAULT_FR
