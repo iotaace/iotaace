@@ -10,13 +10,13 @@ header:
   cta_label: "Enter Gallery"
   cta_url: "https://github.com/mmistakes/minimal-mistakes/"
   caption:
-excerpt: "*a strange illustrator-painter's computer based portfolio.*"
+excerpt: "*a strange illustrator-painter's computerized portfolio.*"
 intro: 
-  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
+  - excerpt: 'ACE offers strange designs for your viewing pleasures, but also for your projects. These quick links will '
 feature_row:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
-    alt: "placeholder image 1"
-    title: "Placeholder 1"
+    alt: "Posts"
+    title: "Posts"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     alt: "placeholder image 2"
