@@ -1,5 +1,5 @@
 ---
-title: "ACE: A Strange Illustrator - Painter"
+title: "Stuff O Stuff"
 layout: splash
 permalink: /
 date: 2017-01-07T00:00:00-00:00
@@ -10,7 +10,7 @@ header:
   cta_label: "Enter Gallery"
   cta_url: "https://github.com/mmistakes/minimal-mistakes/"
   caption:
-excerpt: ""
+excerpt: "A strange illustrator-painter's cozy computer based portfolio"
 intro: 
   - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
 feature_row:
