@@ -4,7 +4,7 @@ main:
   - title: "Portfolio"
     url: /portfolio/
   - title: "Posts"
-    url: /_pages/penguino.txt    
+    url: /_pages/year-archive.md    
   - title: "Tags"
     url: /tags/
   - title: "Pages"
