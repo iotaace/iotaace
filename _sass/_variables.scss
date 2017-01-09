@@ -47,7 +47,7 @@ $type-size-8                : 0.625em !default;  // ~10px
    Colors
    ========================================================================== */
 
-$gray                       : #7a8288 !default;
+$gray                       : #414C7D !default;
 $dark-gray                  : mix(#000, $gray, 40%) !default;
 $darker-gray                : mix(#000, $gray, 60%) !default;
 $light-gray                 : mix(#fff, $gray, 50%) !default;
@@ -60,7 +60,7 @@ $code-background-color-dark : $light-gray !default;
 $text-color                 : $dark-gray !default;
 $border-color               : $lighter-gray !default;
 
-$primary-color              : #7a8288 !default;
+$primary-color              : #414C7D !default;
 $success-color              : #62c462 !default;
 $warning-color              : #f89406 !default;
 $danger-color               : #ee5f5b !default;
