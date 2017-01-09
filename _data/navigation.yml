@@ -4,7 +4,7 @@ main:
   - title: "Portfolio"
     url: /portfolio/
   - title: "Posts"
-    url: /_pages/year-archive.md    
+    url: /archive/    
   - title: "Tags"
     url: /tags/
   - title: "Pages"
