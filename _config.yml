@@ -12,7 +12,7 @@ title_separator          : "-"
 name                     : "ACE"
 description              : "Portfolio and writings of an eccentric illustrator and painter"
 url                      : "https://stuffostuff.com"
-baseurl                  : "/iotaace.github.io"
+baseurl                  : 
 repository               : "iotaace/iotaace.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
