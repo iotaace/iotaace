@@ -89,7 +89,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "https://github.com/iotaace/iotaace.github.io"
   google_plus      :
   keybase          :
   instagram        :
@@ -97,14 +97,14 @@ author:
   linkedin         :
   pinterest        :
   soundcloud       :
-  stackoverflow    : ""
+  stackoverflow    : 
   steam            :
   tumblr           :
   twitter          :
   vine             :
   weibo            :
   xing             :
-  youtube          : ""
+  youtube          : 
 
 
 # Reading Files
