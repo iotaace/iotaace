@@ -1,12 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://localhost:4000/tarot%20reading%20example/writings/spirituality/love%20and%20romance/tarot/</loc>
+<lastmod>2017-01-11T00:00:00+00:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/post%20formats/test/</loc>
 <lastmod>2017-01-08T00:00:00+00:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/jekyll/okay/</loc>
 <lastmod>2016-12-29T00:00:00+00:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/design%20process/composition/variance/color%20design/painting/variance-no-2/</loc>
+<lastmod>2016-04-29T00:00:00+01:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/design%20process/composition/variance/color%20design/sketches/concept/</loc>
+<lastmod>2016-02-26T00:00:00+00:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/design%20process/composition/variance/illustration/joint-venture/</loc>
+<lastmod>2016-02-09T00:00:00+00:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/design%20process/composition/illustration/black%20and%20white/lecoile-marie/</loc>
