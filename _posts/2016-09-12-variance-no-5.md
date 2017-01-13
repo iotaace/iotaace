@@ -14,7 +14,7 @@ tags:
   - composition
 ---
   
-<img src="{{ stuffostuff.com }}{{ site.baseurl }}/assets/images/gallery/wolfe.png" alt=""> 
+<img src="{{ stuffostuff.com }}{{ site.baseurl }}/assets/images/gallery/wolfe1_copy_3_lineart_2.png" alt=""> 
 
 Each time I look at this picture I get the sense of – dryness –. Certain amount of ugliness. There’s enough vibrancy to ensure this picture will gather the attention of those that enjoy neon colour schemes, but it is subdued by the dull background – pale mauve, gray periwinkle and a midnight blue: light enough to share the same space with the mauve and periwinkle.
 
