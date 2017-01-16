@@ -4,7 +4,7 @@
 	<title>Stuff Full of Stuff</title>
 	<link href="http://iotaace.github.io/blog/atom.xml" rel="self"/>
 	<link href="http://stuffostuff.com/blog"/>
-	<updated>2017-01-16T19:43:58+00:00</updated>
+	<updated>2017-01-16T20:09:27+00:00</updated>
 	<id>http://iotaace.github.io/blog/</id>
 	<author>
 		<name>test</name>
@@ -461,7 +461,9 @@ These examples will help you understand what I mean by unnecessary lines. Ultima
 			<link href="http://stuffostuff.com/design%20process/composition/variance/color%20design/painting/variance-no-2/"/>
 			<updated>2016-04-29T00:00:00+01:00</updated>
 			<id>http://stuffostuff.com//design%20process/composition/variance/color%20design/painting/variance-no-2</id>
-			<content type="html">&lt;p&gt;This is Variance Number Second. Actually, the first one was posted already, however I didn’t conjure the name to describe the style at the time. Cerulean Twins is Variance Number One.&lt;/p&gt;
+			<content type="html">&lt;p&gt;This is Variance Number Second. Actually, the first one was posted already, however I didn’t conjure the name to describe the style at the time.&lt;/p&gt;
+
+&lt;p&gt;Cerulean Twins is Variance Number One.&lt;/p&gt;
 
 &lt;h2 id=&quot;dark-colours&quot;&gt;Dark Colours&lt;/h2&gt;
 

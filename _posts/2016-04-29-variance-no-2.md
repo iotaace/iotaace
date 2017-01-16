@@ -25,7 +25,9 @@ gallery:
     title: "Original dark version"
 ---
 
-This is Variance Number Second. Actually, the first one was posted already, however I didn’t conjure the name to describe the style at the time. Cerulean Twins is Variance Number One.
+This is Variance Number Second. Actually, the first one was posted already, however I didn’t conjure the name to describe the style at the time. 
+
+Cerulean Twins is Variance Number One.
 
 ## Dark Colours
 
