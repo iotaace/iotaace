@@ -2,6 +2,7 @@
 title: "Sketches: Cerulean Sketches"
 header:
   image: 
+  teaser: "/assets/images/content/teaser/t_cerulean.png"
 categories: 
   - Design Process
   - Composition

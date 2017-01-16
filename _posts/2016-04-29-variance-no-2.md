@@ -2,6 +2,7 @@
 title: "Painting: Variance Number 2"
 header:
   image: /assets/images/gallery/m_new_2.png
+  teaser: "/assets/images/content/teaser/t_v2.png"
 categories: 
   - Design Process
   - Composition

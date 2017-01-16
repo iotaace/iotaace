@@ -2,6 +2,7 @@
 title: "Tutorial: Creating Definition with Black and White"
 header: 
   image: /assets/images/content/creating_definition.png
+  teaser: "/assets/images/content/teaser/t_cd.png"
 categories:
   - Tutorial
 tags:

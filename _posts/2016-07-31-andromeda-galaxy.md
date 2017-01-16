@@ -2,6 +2,7 @@
 title: "Illustration: 2.5 x 10^6 ly"
 header:
   image: /assets/images/content/header_andromeda2.png
+  teaser: "/assets/images/content/teaser/t_iota.png"
 categories:
   - Illustration
 tags:

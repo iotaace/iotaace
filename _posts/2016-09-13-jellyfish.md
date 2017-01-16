@@ -2,6 +2,7 @@
 title: "Written Image: Jellyfish"
 header:
   image: /assets/images/content/header_jellyfish.png
+  teaser: "/assets/images/content/teaser/t_jelly.png"
 categories:
   - Written Image
 tags:

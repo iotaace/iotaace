@@ -2,6 +2,7 @@
 title: "Illustration: LeCoile and Marie"
 header:
   image: /assets/images/gallery/lecoilemarie.png
+  teaser: "/assets/images/content/teaser/t_lm.png"
 categories:
   - Design Process
   - Composition

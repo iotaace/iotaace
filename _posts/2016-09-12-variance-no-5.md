@@ -2,6 +2,7 @@
 title: "Painting: Variance Number 5"
 header:
   image: /assets/images/content/header_variance5.png
+  teaser: "/assets/images/content/teaser/t_v5.png"
 categories:
   - Painting
 tags:

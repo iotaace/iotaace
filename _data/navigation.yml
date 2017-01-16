@@ -4,12 +4,10 @@ main:
   - title: "Portfolio"
     url: /portfolio/
   - title: "Posts"
+    url: /all-posts/
+  - title: "Archive"
     url: /archive/    
   - title: "Tags"
     url: /tags/
-  - title: "Pages"
-    url: /page-archive/
   - title: "Collections"
     url: /collection-archive/
-  - title: "External Link"
-    url: https://google.com

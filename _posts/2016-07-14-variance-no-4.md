@@ -2,6 +2,7 @@
 title: "Painting: Variance Number 4"
 header:
   image: /assets/images/content/header_sigmanavariance.png
+  teaser: "/assets/images/content/teaser/t_v4.png"
 categories:
   - Painting
 tags:
