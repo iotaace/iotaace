@@ -79,7 +79,7 @@ analytics:
 author:
   name             : "ACE"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "*Website still under construction!* Illustrator and painter - contact for questions, or to work with me"
+  bio              : Eccentric illustrator and painter
   location         : "USA"
   email            : "aceiotasirrah@gmail.com"
   uri              :
@@ -89,7 +89,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/iotaace/iotaace.github.io"
+  github           : "iotaace/iotaace.github.io"
   google_plus      :
   keybase          :
   instagram        :

@@ -4,18 +4,22 @@
 
 .masthead {
   position: relative;
-  border-bottom: 1px solid $border-color;
+  border-bottom: 1px solid; 
+  border-color: $gray;
+  background-color: $light-gray;
   -webkit-animation: intro 0.3s both;
           animation: intro 0.3s both;
   -webkit-animation-delay: 0.15s;
           animation-delay: 0.15s;
   z-index: 20;
+  letter-spacing: 1px;
 
   &__inner-wrap {
     @include container;
     @include clearfix;
     padding: 1em 1em 1em;
-    font-family: $sans-serif-narrow;
+    font-family: $sans-serif;
+	background-color: $light-gray;
 
     @include breakpoint($x-large) {
       max-width: $x-large;
@@ -23,10 +27,13 @@
 
     nav {
       z-index: 10;
+	  background-color: $light-gray;
     }
 
     a {
       text-decoration: none;
+	  background-color: $light-gray;
+	  text-shadow: 0 1px 1px rgba(0,0,0,.3);
     }
   }
 }

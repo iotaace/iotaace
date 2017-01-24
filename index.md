@@ -1,5 +1,5 @@
 ---
-title: "Stuff O stuff"
+title: 
 layout: splash
 permalink: /
 date: 2017-01-07T00:00:00-00:00
@@ -8,7 +8,7 @@ header:
   overlay_filter: 
   overlay_image: /assets/images/splash_header.png
   cta_label: "Enter Gallery"
-  cta_url: "https://github.com/mmistakes/minimal-mistakes/"
+  cta_url: "/portfolio/"
   caption:
 excerpt: "*a strange illustrator-painter's computerized portfolio.*"
 intro: 
