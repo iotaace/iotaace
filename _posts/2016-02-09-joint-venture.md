@@ -4,10 +4,7 @@ header:
   image: /assets/images/gallery/igmanaphirem.png
   teaser: "/assets/images/content/teaser/t_v1.png"
 categories: 
-  - Design Process
-  - Composition
-  - Variance
-  - Illustration
+  - Painting
 tags:
   - process
   - composition

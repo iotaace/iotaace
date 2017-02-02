@@ -78,10 +78,10 @@ analytics:
 # Site Author
 author:
   name             : "ACE"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/av.png"
   bio              : Eccentric illustrator and painter
   location         : "USA"
-  email            : "aceiotasirrah@gmail.com"
+  email            :
   uri              :
   bitbucket        :
   codepen          :

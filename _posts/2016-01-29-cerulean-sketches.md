@@ -4,10 +4,6 @@ header:
   image: 
   teaser: "/assets/images/content/teaser/t_cerulean.png"
 categories: 
-  - Design Process
-  - Composition
-  - Variance
-  - Color Design
   - Sketches
 tags:
   - process

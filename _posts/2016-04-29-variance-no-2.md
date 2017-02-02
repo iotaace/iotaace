@@ -4,10 +4,6 @@ header:
   image: /assets/images/gallery/m_new_2.png
   teaser: "/assets/images/content/teaser/t_v2.png"
 categories: 
-  - Design Process
-  - Composition
-  - Variance
-  - Color Design
   - Painting
 tags:
   - process

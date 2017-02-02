@@ -4,11 +4,7 @@ header:
   image: /assets/images/gallery/mariejessie_ski_.png
   teaser: "/assets/images/content/teaser_jan2016.png"
 categories: 
-  - Design Process
-  - Composition
   - Illustration
-  - Computer Palette
-  - Color Design
 tags:
   - process
   - composition

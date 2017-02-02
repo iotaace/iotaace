@@ -4,10 +4,7 @@ header:
   image: /assets/images/gallery/lecoilemarie.png
   teaser: "/assets/images/content/teaser/t_lm.png"
 categories:
-  - Design Process
-  - Composition
   - Illustration
-  - Black and White
 tags:
   - process
   - composition

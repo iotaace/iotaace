@@ -8,26 +8,30 @@ header:
   overlay_filter: 
   overlay_image: /assets/images/splash_header.png
   cta_label: "Enter Gallery"
-  cta_url: "/portfolio/"
+  cta_url: "/c2017/"
   caption:
 excerpt: "*a strange illustrator-painter's computerized portfolio.*"
 intro: 
-  - excerpt: 'ACE offers strange designs for your viewing pleasures, but also for your projects. These quick links will '
+  - excerpt:
 feature_row:
-  - image_path: assets/images/unsplash-gallery-image-1-th.jpg
-    alt: "Posts"
-    title: "Posts"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder 2"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--inverse"
-  - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
-    title: "Placeholder 3"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+  - image_path: /assets/images/content/teaser/update.png
+    title: "Latest Post"
+    excerpt: "Variance Number 6: Also the header for the main page."
+    url: "/painting/variance-no-6/"
+    btn_label: "Read"
+    btn_class: "btn"
+  - image_path: /assets/images/content/teaser/t_twins.png
+    title: "Latest Gallery Addition"
+    excerpt: "The Twins: Sigmana and Phirem."
+    url: "assets/images/gallery/thetwins3.png"
+    btn_label: "View"
+    btn_class: "btn"
+  - image_path: /assets/images/blank.png
+    title: "Contact"
+    excerpt: "For any questions or inquiries regarding the work found on this portfolio."
+    url: "https://docs.google.com/a/oswego.edu/forms/d/e/1FAIpQLSf7Zuu9VQ0Hs1kg9DT3W2bRkm4mTKbBIPUXhywYgEePFzybZw/viewform"
+    btn_label: "Send an inquiry"
+    btn_class: "btn"
 feature_row2:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     alt: "placeholder image 2"
@@ -35,7 +39,7 @@ feature_row2:
     excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
     url: "#test-link"
     btn_label: "Read More"
-    btn_class: "btn--inverse"
+    btn_class: "btn"
 feature_row3:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     alt: "placeholder image 2"
@@ -58,8 +62,3 @@ feature_row4:
 
 {% include feature_row %}
 
-{% include feature_row id="feature_row2" type="left" %}
-
-{% include feature_row id="feature_row3" type="right" %}
-
-{% include feature_row id="feature_row4" type="center" %}

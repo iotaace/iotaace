@@ -3,13 +3,348 @@ main:
     url: /about
   - title: "Portfolio"
     url: /portfolio/
+  - title: "Written Images"
+    url: /written/
   - title: "Posts"
-    url: /all-posts/
-  - title: "Archive"
-    url: /archive/    
-  - title: "Tags"
-    url: /tags/
-  - title: "Collections"
-    url: /collection-archive/
+    url: /all-posts/   
+  - title: "Contact"
+    url: https://goo.gl/forms/TC4gnWEvLTWatg9O2
+  - title: "Site Map"
+    url: /site-map/ 
+
 sidebar-portfolio:
-        
+- title: "Black and White"
+  children:
+      - title: "2017"
+        url: /bw2017/
+      - title: "2016"
+        url: /bw2016/
+      - title: "2015"
+        url: /bw2015/
+      - title: "2014"
+        url: /bw2014/
+- title: "Colour"
+  children:
+      - title: "2017"
+        url: /c2017/
+      - title: "2016"
+        url: /c2016/
+      - title: "2015"
+        url: /c2015/
+      - title: "2014"
+        url: /c2014/  
+- title: "Sketches"
+  children:
+      - title: "All"
+        url: /sketches/   
+sidebar-written:
+- title: "All"
+  children:
+      - title: "Empty Parking Lot"
+        url: /text/empty
+      - title: "Frozen Tiles"
+        url: /text/frozen
+      - title: "Blue Shed"
+        url: /text/blue
+      - title: "2 Jellyfish"
+        url: /text/jelly
+sidebar-2017bw:
+- title: "Full Sized View"
+  children:
+      - title: 
+        url: 
+- title: "Black and White"
+  children:
+      - title: "2017"
+        url: /bw2017/
+      - title: "2016"
+        url: /bw2016/
+      - title: "2015"
+        url: /bw2015/
+      - title: "2014"
+        url: /bw2014/
+- title: "Colour"
+  children:
+      - title: "2017"
+        url: /c2017/
+      - title: "2016"
+        url: /c2016/
+      - title: "2015"
+        url: /c2015/
+      - title: "2014"
+        url: /c2014/  
+- title: "Sketches"
+  children:
+      - title: "All"
+        url: /sketches/
+sidebar-2016bw:
+- title: "Full Sized View"
+  children:
+      - title: "Le'Coile and Marie"
+        url: /assets/images/gallery/lecoilemarie.png/
+      - title: "Mima (Touhou fanart)"
+        url: /assets/images/gallery/mima_full.jpg/
+      - title: "Mima lineart only"
+        url: /assets/images/gallery/mima_bg_empty.png/
+      - title: "Jessie"
+        url: /assets/images/gallery/jessieticket_transparent.png/
+      - title: "Red and Iota"
+        url: /assets/images/gallery/redandiota.png/
+      - title: "Iota and Red"
+        url: /assets/images/gallery/redandiota_flipped.png/
+      - title: "2 Jellyfish"
+        url: /assets/images/gallery/jellyfish_duplicate_3.png/
+      - title: "Blue Shed"
+        url: /assets/images/gallery/sunflowerfall.png/
+- title: "Black and White"
+  children:
+      - title: "2017"
+        url: /bw2017/
+      - title: "2016"
+        url: /bw2016/
+      - title: "2015"
+        url: /bw2015/
+      - title: "2014"
+        url: /bw2014/
+- title: "Colour"
+  children:
+      - title: "2017"
+        url: /c2017/
+      - title: "2016"
+        url: /c2016/
+      - title: "2015"
+        url: /c2015/
+      - title: "2014"
+        url: /c2014/  
+- title: "Sketches"
+  children:
+      - title: "All"
+        url: /sketches/
+sidebar-2015bw:
+- title: "Full Sized View"
+  children:
+      - title: "Adventure fantasy scene"
+        url: /assets/images/gallery/scene1_final_3.jpg/
+      - title: "Sir Phelan"
+        url: /assets/images/gallery/sirphelan_copy_new.jpg/
+      - title: "Baisley"
+        url: /assets/images/gallery/baisleylyre.png/
+      - title: "Evitta"
+        url: /assets/images/gallery/evittacharacter.jpg/
+      - title: "Christmas Girls"
+        url: /assets/images/gallery/CHRISTMASGIRLS_copy3.jpg/
+- title: "Black and White"
+  children:
+      - title: "2017"
+        url: /bw2017/
+      - title: "2016"
+        url: /bw2016/
+      - title: "2015"
+        url: /bw2015/
+      - title: "2014"
+        url: /bw2014/
+- title: "Colour"
+  children:
+      - title: "2017"
+        url: /c2017/
+      - title: "2016"
+        url: /c2016/
+      - title: "2015"
+        url: /c2015/
+      - title: "2014"
+        url: /c2014/  
+- title: "Sketches"
+  children:
+      - title: "All"
+        url: /sketches/
+sidebar-2014bw:
+- title: "Full Sized View"
+  children:
+      - title: "Strangulation"
+        url: /assets/images/gallery/strangulation.jpg/
+      - title: "The Shapeshifters"
+        url: /assets/images/gallery/artshowsketch3_reisze2.jpg/
+- title: "Black and White"
+  children:
+      - title: "2017"
+        url: /bw2017/
+      - title: "2016"
+        url: /bw2016/
+      - title: "2015"
+        url: /bw2015/
+      - title: "2014"
+        url: /bw2014/
+- title: "Colour"
+  children:
+      - title: "2017"
+        url: /c2017/
+      - title: "2016"
+        url: /c2016/
+      - title: "2015"
+        url: /c2015/
+      - title: "2014"
+        url: /c2014/  
+- title: "Sketches"
+  children:
+      - title: "All"
+        url: /sketches/
+sidebar-2017c:
+- title: "Full Sized View"
+  children:
+      - title: "Twins"
+        url: /assets/images/gallery/thetwins3.png/
+      - title: "Variance Number 6"
+        url: /assets/images/gallery/radface3.png/
+- title: "Black and White"
+  children:
+      - title: "2017"
+        url: /bw2017/
+      - title: "2016"
+        url: /bw2016/
+      - title: "2015"
+        url: /bw2015/
+      - title: "2014"
+        url: /bw2014/
+- title: "Colour"
+  children:
+      - title: "2017"
+        url: /c2017/
+      - title: "2016"
+        url: /c2016/
+      - title: "2015"
+        url: /c2015/
+      - title: "2014"
+        url: /c2014/  
+- title: "Sketches"
+  children:
+      - title: "All"
+        url: /sketches/
+sidebar-2016c:
+- title: "Full Sized View"
+  children:
+      - title: "New Year 2016 80s Retrospective"
+        url: /assets/images/gallery/mariejessie_ski_.png/
+      - title: "Variance Number 1"
+        url: /assets/images/gallery/igmanaphirem.png/
+      - title: "Variance Number 2"
+        url: /assets/images/gallery/m_new_2.png/
+      - title: "Variance Number 4"
+        url: /assets/images/gallery/SIMANAPHIREMSHOW2.png/
+      - title: "Brom"
+        url: /assets/images/gallery/brom2.png/
+      - title: "Variance Number 5"
+        url: /assets/images/gallery/wolfe.png/
+- title: "Black and White"
+  children:
+      - title: "2017"
+        url: /bw2017/
+      - title: "2016"
+        url: /bw2016/
+      - title: "2015"
+        url: /bw2015/
+      - title: "2014"
+        url: /bw2014/
+- title: "Colour"
+  children:
+      - title: "2017"
+        url: /c2017/
+      - title: "2016"
+        url: /c2016/
+      - title: "2015"
+        url: /c2015/
+      - title: "2014"
+        url: /c2014/  
+- title: "Sketches"
+  children:
+      - title: "All"
+        url: /sketches/
+sidebar-2015c:
+- title: "Full Sized View"
+  children:
+      - title: "Childrens Illustration: Wooly Woolybear Cover"
+        url: /assets/images/gallery/cover.png/
+      - title: "Childrens Illustration: Sea turtle and Boy"
+        url: /assets/images/gallery/seaturbleboy_copy.jpg/
+      - title: "Childrens Illustration: Barnyard Animals"
+        url: /assets/images/gallery/concept_animals.png/
+      - title: "Childrens Illustration: Wooly"
+        url: /assets/images/gallery/wooly_page22.jpg/
+      - title: "PHIREM"
+        url: /assets/images/gallery/PHIREM.png/
+      - title: "Observe, Sigmana"
+        url: /assets/images/gallery/observe_sigmana_completepsd_2.png/
+      - title: "Neo Kong City Poster"
+        url: /assets/images/gallery/NEOKONGcity_LG.jpg/
+      - title: "Tanjyoubi"
+        url: /assets/images/gallery/tanjyoubidesuyo3.jpg/
+- title: "Black and White"
+  children:
+      - title: "2017"
+        url: /bw2017/
+      - title: "2016"
+        url: /bw2016/
+      - title: "2015"
+        url: /bw2015/
+      - title: "2014"
+        url: /bw2014/
+- title: "Colour"
+  children:
+      - title: "2017"
+        url: /c2017/
+      - title: "2016"
+        url: /c2016/
+      - title: "2015"
+        url: /c2015/
+      - title: "2014"
+        url: /c2014/  
+- title: "Sketches"
+  children:
+      - title: "All"
+        url: /sketches/
+sidebar-2014c:
+- title: "Full Sized View"
+  children:
+      - title: "Bedouin Girl"
+        url: /assets/images/gallery/bedouingirlsketchfinished.jpg/
+      - title: "Kaori"
+        url: /assets/images/gallery/kaoripractice.jpg/
+      - title: "Childrens Illustration: Wooly Cake"
+        url: /assets/images/gallery/page_6.jpg/
+      - title: "Childrens Illustration: Wooly Cave"
+        url: /assets/images/gallery/page_8.jpg/
+      - title: "Childrens Illustration: Glow Worms"
+        url: /assets/images/gallery/page_12.jpg/
+      - title: "Xak Fanart: Fray, Latok, Rune"
+        url: /assets/images/gallery/xak.jpg/
+      - title: "Girls of the Fan"
+        url: /assets/images/gallery/petal_girls_of_the_fan_1500.jpg/
+      - title: "Sigmana and Phirem"
+        url: /assets/images/gallery/phiremsigmana44copy.jpg/
+      - title: "Princess Orthalia and Princess Malagnite"
+        url: /assets/images/gallery/princessorthaliamalagnite.jpg/
+      - title: "Sigmana Concept"
+        url: /assets/images/gallery/sigmanacolour.jpg/
+- title: "Black and White"
+  children:
+      - title: "2017"
+        url: /bw2017/
+      - title: "2016"
+        url: /bw2016/
+      - title: "2015"
+        url: /bw2015/
+      - title: "2014"
+        url: /bw2014/
+- title: "Colour"
+  children:
+      - title: "2017"
+        url: /c2017/
+      - title: "2016"
+        url: /c2016/
+      - title: "2015"
+        url: /c2015/
+      - title: "2014"
+        url: /c2014/  
+- title: "Sketches"
+  children:
+      - title: "All"
+        url: /sketches/
