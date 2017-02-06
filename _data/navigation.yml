@@ -40,14 +40,16 @@ sidebar-portfolio:
 sidebar-written:
 - title: "All"
   children:
+      - title: "The length on the head of the chair"
+        url: /text/length
       - title: "Empty Parking Lot"
-        url: /text/empty
+        url: /text/empty/
       - title: "Frozen Tiles"
-        url: /text/frozen
+        url: /text/frozen/
       - title: "Blue Shed"
-        url: /text/blue
+        url: /text/blue/
       - title: "2 Jellyfish"
-        url: /text/jelly
+        url: /text/jelly/
 sidebar-2017bw:
 - title: "Full Sized View"
   children:
@@ -81,21 +83,21 @@ sidebar-2016bw:
 - title: "Full Sized View"
   children:
       - title: "Le'Coile and Marie"
-        url: /full/
+        url: /full/16lm/
       - title: "Mima (Touhou fanart)"
-        url: /full/
+        url: /full/16mima/
       - title: "Mima lineart only"
-        url: /full/
+        url: /full/16mima-l/
       - title: "Jessie"
-        url: /full/
+        url: /full/16jes/
       - title: "Red and Iota"
-        url: /full/
+        url: /full/16andromeda/
       - title: "Iota and Red"
-        url: /full/
+        url: /full/16ademordna/
       - title: "2 Jellyfish"
-        url: /full/
+        url: /full/16jelly/
       - title: "Blue Shed"
-        url: /full/
+        url: /full/16blue/
 - title: "Black and White"
   children:
       - title: "2017"
@@ -124,15 +126,15 @@ sidebar-2015bw:
 - title: "Full Sized View"
   children:
       - title: "Adventure fantasy scene"
-        url: /full/
+        url: /full/15advent/
       - title: "Sir Phelan"
-        url: /full/
+        url: /full/15phelan/
       - title: "Baisley"
-        url: /full/
+        url: /full/15bais/
       - title: "Evitta"
-        url: /full/
+        url: /full/15vita/
       - title: "Christmas Girls"
-        url: /full/
+        url: /full/15gals/
 - title: "Black and White"
   children:
       - title: "2017"
@@ -161,9 +163,9 @@ sidebar-2014bw:
 - title: "Full Sized View"
   children:
       - title: "Strangulation"
-        url: /full/
+        url: /full/14strange/
       - title: "The Shapeshifters"
-        url: /full/
+        url: /full/14shape/
 - title: "Black and White"
   children:
       - title: "2017"
@@ -192,9 +194,9 @@ sidebar-2017c:
 - title: "Full Sized View"
   children:
       - title: "Twins"
-        url: /full/
+        url: /full/17twins/
       - title: "Variance Number 6"
-        url: /full/
+        url: /full/17var-6/
 - title: "Black and White"
   children:
       - title: "2017"
@@ -223,17 +225,17 @@ sidebar-2016c:
 - title: "Full Sized View"
   children:
       - title: "New Year 2016 80s Retrospective"
-        url: /full/
+        url: /full/16retro/
       - title: "Variance Number 1"
-        url: /full/
+        url: /full/16var-1/
       - title: "Variance Number 2"
-        url: /full/
+        url: /full/16var-2/
       - title: "Variance Number 4"
-        url: /full/
+        url: /full/16var-4/
       - title: "Brom"
-        url: /full/
+        url: /full/16brom/
       - title: "Variance Number 5"
-        url: /full/
+        url: /full/16var-5/
 - title: "Black and White"
   children:
       - title: "2017"
@@ -262,21 +264,21 @@ sidebar-2015c:
 - title: "Full Sized View"
   children:
       - title: "Childrens Illustration: Wooly Woolybear Cover"
-        url: /full/
+        url: /full/15ww-cover/
       - title: "Childrens Illustration: Sea turtle and Boy"
-        url: /full/
+        url: /full/15turtle/
       - title: "Childrens Illustration: Barnyard Animals"
-        url: /full/
+        url: /full/15barn/
       - title: "Childrens Illustration: Wooly"
-        url: /full/
+        url: /full/15ww/
       - title: "PHIREM"
-        url: /full/
+        url: /full/15phirem/
       - title: "Observe, Sigmana"
-        url: /full/
+        url: /full/15observe/
       - title: "Neo Kong City Poster"
-        url: /full/
+        url: /full/15kong/
       - title: "Tanjyoubi"
-        url: /full/
+        url: /full/15bday/
 - title: "Black and White"
   children:
       - title: "2017"
@@ -305,25 +307,25 @@ sidebar-2014c:
 - title: "Full Sized View"
   children:
       - title: "Bedouin Girl"
-        url: /full/
+        url: /full/14bedouin/
       - title: "Kaori"
-        url: /full/
+        url: /full/14kaori/
       - title: "Childrens Illustration: Wooly Cake"
-        url: /full/
+        url: /full/14ww-cake/
       - title: "Childrens Illustration: Wooly Cave"
-        url: /full/
+        url: /full/14ww-cave/
       - title: "Childrens Illustration: Glow Worms"
-        url: /full/
+        url: /full/14ww-glow/
       - title: "Xak Fanart: Fray, Latok, Rune"
-        url: /full/
+        url: /full/14xak/
       - title: "Girls of the Fan"
-        url: /full/
+        url: /full/14fan/
       - title: "Sigmana and Phirem"
-        url: /full/
+        url: /full/14sig-phi/
       - title: "Princess Orthalia and Princess Malagnite"
-        url: /full/
+        url: /full/14princess/
       - title: "Sigmana Concept"
-        url: /full/
+        url: /full/14sig-2/
 - title: "Black and White"
   children:
       - title: "2017"
