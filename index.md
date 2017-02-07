@@ -10,7 +10,7 @@ header:
   cta_label: "Enter Gallery"
   cta_url: "/c2017/"
   caption:
-excerpt: "*a strange illustrator-painter's computerized portfolio.*"
+excerpt: "*illustrations and portraits of visual texts*"
 intro: 
   - excerpt:
 feature_row:
