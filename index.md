@@ -10,7 +10,7 @@ header:
   cta_label: "Enter Gallery"
   cta_url: "/c2017/"
   caption:
-excerpt: "*illustrations and portraits of visual texts*"
+excerpt: "*illustrations, paintings and portraits of visual texts*"
 intro: 
   - excerpt:
 feature_row:
