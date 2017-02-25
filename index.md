@@ -16,8 +16,8 @@ intro:
 feature_row:
   - image_path: /assets/images/content/teaser/update.png
     title: "Latest Post"
-    excerpt: "Variance Number 6: Also the header for the main page."
-    url: "/painting/variance-no-6/"
+    excerpt: "Written image work in progress."
+    url: "/written image/part-1-empty-parking-lot/"
     btn_label: "Read"
     btn_class: "btn"
   - image_path: /assets/images/content/teaser/t_twins.png
