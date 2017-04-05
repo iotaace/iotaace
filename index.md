@@ -16,14 +16,14 @@ intro:
 feature_row:
   - image_path: /assets/images/content/teaser/update.png
     title: "Latest Post"
-    excerpt: "Written image work in progress."
-    url: "/written image/part-1-empty-parking-lot/"
+    excerpt: "Work as a freelance artist is rewarding."
+    url: "/illustration/soul-matter-pelican-album-cover-art/"
     btn_label: "Read"
     btn_class: "btn"
-  - image_path: /assets/images/content/teaser/t_twins.png
+  - image_path: /assets/images/content/teaser/t_p.png
     title: "Latest Gallery Addition"
-    excerpt: "The Twins: Sigmana and Phirem."
-    url: "assets/images/gallery/thetwins3.png"
+    excerpt: "in MSX COLOURS"
+    url: "assets/images/gallery/portrait.png"
     btn_label: "View"
     btn_class: "btn"
   - image_path: /assets/images/blank.png
