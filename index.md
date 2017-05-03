@@ -3,7 +3,6 @@ title:
 layout: splash
 permalink: /
 date: 2017-01-07T00:00:00-00:00
-description: fantasy, bizarre, and eccentric illustrations with a unique touch - professional freelance art for novels, childrens books, cd albums, and more projects, as well as posts on digital art processes, composition of artwork, and tutorials on how to draw better.
 header:
   overlay_color: "#000"
   overlay_filter: 

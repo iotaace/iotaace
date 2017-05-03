@@ -53,8 +53,8 @@ sidebar-written:
 sidebar-2017bw:
 - title: "Full Sized View"
   children:
-      - title: Nova Casanova of Arclava Music Label
-        url: /full/17nova-casanova-black-white/
+      - title: 
+        url: 
 - title: "Black and White"
   children:
       - title: "2017"
@@ -201,10 +201,6 @@ sidebar-2017c:
         url: /full/17msx/
       - title: "Soul Matter Album Art"
         url: /full/17soul-matter/
-      - title: "Nova Casanova of Arclava Music Label"
-        url: /full/17nova-casanova/
-      - title: "Sigmana Original Character"
-        url: /full/17sigmana-concept-design/
 - title: "Black and White"
   children:
       - title: "2017"
