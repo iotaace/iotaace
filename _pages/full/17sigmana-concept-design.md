@@ -4,4 +4,4 @@ title: "Sigmana Original Character Concept Design"
 excerpt: "bizarre, eccentric paintings with egotistical colours enveloping the sad, depressed characters within."
 ---
 
-![Sigmana Original Character Concept Design]({{ stuffostuff.com }}{{ site.baseurl }}/assets/images/gallery/sigmana-final-bg.png){: .full}
+![Sigmana Original Character Concept Design]({{ stuffostuff.com }}{{ site.baseurl }}/assets/images/gallery/sigmana_final.png){: .full}

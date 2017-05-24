@@ -33,6 +33,10 @@ sidebar-portfolio:
         url: /c2015/
       - title: "2014"
         url: /c2014/  
+- title: "Design"
+  children:
+      - title: "2017"
+        url: /d2017/
 - title: "Sketches"
   children:
       - title: "All"
@@ -74,7 +78,11 @@ sidebar-2017bw:
       - title: "2015"
         url: /c2015/
       - title: "2014"
-        url: /c2014/  
+        url: /c2014/
+- title: "Design"
+  children:
+      - title: "2017"
+        url: /d2017/        
 - title: "Sketches"
   children:
       - title: "All"
@@ -117,7 +125,11 @@ sidebar-2016bw:
       - title: "2015"
         url: /c2015/
       - title: "2014"
-        url: /c2014/  
+        url: /c2014/
+- title: "Design"
+  children:
+      - title: "2017"
+        url: /d2017/
 - title: "Sketches"
   children:
       - title: "All"
@@ -154,7 +166,11 @@ sidebar-2015bw:
       - title: "2015"
         url: /c2015/
       - title: "2014"
-        url: /c2014/  
+        url: /c2014/
+- title: "Design"
+  children:
+      - title: "2017"
+        url: /d2017/        
 - title: "Sketches"
   children:
       - title: "All"
@@ -185,7 +201,11 @@ sidebar-2014bw:
       - title: "2015"
         url: /c2015/
       - title: "2014"
-        url: /c2014/  
+        url: /c2014/
+- title: "Design"
+  children:
+      - title: "2017"
+        url: /d2017/        
 - title: "Sketches"
   children:
       - title: "All"
@@ -224,7 +244,11 @@ sidebar-2017c:
       - title: "2015"
         url: /c2015/
       - title: "2014"
-        url: /c2014/  
+        url: /c2014/ 
+- title: "Design"
+  children:
+      - title: "2017"
+        url: /d2017/        
 - title: "Sketches"
   children:
       - title: "All"
@@ -264,6 +288,10 @@ sidebar-2016c:
         url: /c2015/
       - title: "2014"
         url: /c2014/  
+- title: "Design"
+  children:
+      - title: "2017"
+        url: /d2017/
 - title: "Sketches"
   children:
       - title: "All"
@@ -306,7 +334,11 @@ sidebar-2015c:
       - title: "2015"
         url: /c2015/
       - title: "2014"
-        url: /c2014/  
+        url: /c2014/
+- title: "Design"
+  children:
+      - title: "2017"
+        url: /d2017/        
 - title: "Sketches"
   children:
       - title: "All"
@@ -353,7 +385,11 @@ sidebar-2014c:
       - title: "2015"
         url: /c2015/
       - title: "2014"
-        url: /c2014/  
+        url: /c2014/
+- title: "Design"
+  children:
+      - title: "2017"
+        url: /d2017/
 - title: "Sketches"
   children:
       - title: "All"
